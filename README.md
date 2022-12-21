@@ -1,2 +1,2 @@
 # StudentCrud
-project for student crud operations
+project for student crud operations somu
