@@ -1,2 +1,2 @@
 # StudentCrud
-welcome to git so
+welcome to git
