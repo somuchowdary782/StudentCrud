@@ -1,5 +1,10 @@
 # StudentCrud
 
 welcome to git aumnics
-welcome to github
-somu
+
+welcome to github 
+Hello aumnics.ai
+
+
+
+
